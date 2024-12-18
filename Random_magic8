@@ -1,0 +1,13 @@
+#4 Random number (1-9)
+
+import random
+
+num = random.randint(1, 9)
+
+print(num)
+
+🤞🎱
+#magic8 ball
+
+
+
