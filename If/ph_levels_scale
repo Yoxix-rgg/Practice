@@ -1,11 +1,10 @@
 #3 pH scale
 
-
-pH= int(input ("ph value 1-14: "))
+pH= int(input ("pH2 value 1-14: "))
 
 if pH > 7:
   print('Basic')
 elif pH < 7:
   print('Acidic')
-else: 
+else:
   print('Neutral')
